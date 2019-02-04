@@ -123,7 +123,10 @@ The Cycle Atlanta LTS typology is used in this research as the basis for the LTS
 ##### Bicycle network
 In the context of this research, the bicycle network includes any facility that a bicycle is allowed to travel on from streets to shared use paths or greenways.
 
-See image 2
+![Image2](https://github.com/cadtju/RABLOSUMICH/blob/master/2.png)
+![Image3](https://github.com/cadtju/RABLOSUMICH/blob/master/3.png)
+![Image4](https://github.com/cadtju/RABLOSUMICH/blob/master/4.png)
+![Image5](https://github.com/cadtju/RABLOSUMICH/blob/master/5.png)
 
 <a name="LTS-Quality-of-Service-Measure"></a>
 ##### LTS Quality of Service Measure
@@ -158,7 +161,7 @@ This study focused on the Atlanta BeltLine Eastside trail in Atlanta, Georgia. A
 
 <a name="Data"></a>
 ### Data
-See image 3 for the six layers used in the case.
+![Image6](https://github.com/cadtju/RABLOSUMICH/blob/master/6.png)
 
 The RC_ROUTES_ARC attribute information had to be transferred to NAVTEQ Streets 2014 through a manual process due to the lack of common field. They further manually geocoded: the location of on street parking on roadways with conventional bicycle lanes and buffered bicycle lanes; intersections with right turn only motor vehicle lanes that connect to links with conventional bicycle lanes, buffered bicycle lanes, or protected cycle tracks, the location of bike boxes. The process was extremely time consuming.
 
@@ -168,17 +171,20 @@ Join and relate --> Geocoding --> Buffer and Intersect --> SQL Query and Symbolo
 
 <a name="Result"></a>
 ### Result
+
 - Criteria for left-turning bicyclist at signalized intersections and criteria for bicycle through movement at unsignalized intersections are excluded from this map. The map has a limited number of roadways and bikeways coded blue or LTS 1, however, a large portion of the map has green or LTS 2 roadways and bikeways.
-See image 4
+
+![Image7](https://github.com/cadtju/RABLOSUMICH/blob/master/7.png)
+![Image8](https://github.com/cadtju/RABLOSUMICH/blob/master/8.png)
 
 - While a majority of the roadways and bikeways in the study area are classified as LTS 1 and LTS 2, these facilities appear to not be well connected. Connectivity analysis was not conducted in this thesis. Instead an analysis of the bikeshed of the Atlanta BeltLine Eastside Trail for LTS 1 and LTS 2 facilities was completed. A bikeshed is the distance that a bicyclist can travel from a given point outward, in this case the Atlanta BeltLine Eastside Trail.
-See image 5
+![Image9](https://github.com/cadtju/RABLOSUMICH/blob/master/9.png)
 
 - They study then look into the connectivity between the bikesheds and different Neighborhood Planning Units (NPUs). The majority of NPU E, M, and W are not reached by the Eastside Trail LTS 1 and LTS 2 bikeshed. NPU E and M are likely to see mode share increase due to the concentration of students if low stress infrastructure is installed. 
-See image 6
+![Image10](https://github.com/cadtju/RABLOSUMICH/blob/master/10.png)
 
 - The next image compares the bikeshed with and without this criteria applied. The dark grey facilities are those that were included in Figure 12-14, but which were excluded in Figure 14 due to the presence of unsignalized intersections which exceeded LTS 1 and LTS 2 criteria.
-See image 7
+![Image11](https://github.com/cadtju/RABLOSUMICH/blob/master/11.png)
 
 <a name="Conclusion"></a>
 # Conclusion
