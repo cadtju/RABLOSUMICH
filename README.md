@@ -117,6 +117,7 @@ By outlining the criteria to classify roadways and separated bicycle facilities 
 ##### Typology - Cycle Atlanta LTS
 The Cycle Atlanta LTS typology is used in this research as the basis for the LTS roadway and bikeway criteria which are discussed in more detail later. By associating a specific typology with LTS levels for roadway and bikeway criteria it will be possible for future research to validate the criteria based on revealed and stated preference. Misra is currently conducting research to compare the LTS classification of routes that people chose to bicycle and the Cycle Atlanta LTS typology that they identify as. This research can help refine the LTS criteria for classifying roadways and bikeways.
 
+![Image1](https://drive.google.com/open?id=1wqkfz0K8U7gGHAZo7JGsuw-AVbXOV3JY)
 See image 1
 
 <a name="Bicycle-network"></a>
