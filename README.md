@@ -39,13 +39,6 @@
     - [Validating LTS Typology](#validating-lts-typology)
     - [Validating LTS Quality of Service Tool Criteria](#validating-lts-quality-of-service-tool-criteria)
 
-- [Conclusion](#Conclusion)
-- [Future Research](#Future-Research)
-	- [Criteria for Links](#Criteria-for-Links)
-	- [Criteria for Signalized Intersections](#Criteria-for-Signalized-Intersections)
-	- [Criteria for Unsignalized Intersections](#Criteria-for-Unsignalized-Intersections)
-	- [Validating LTS Typology](#Validating-LTS-Typology)
-	- [Validating LTS Quality of Service Tool Criteria](#Validating-LTS-Quality-of-Service-Tool-Criteria)
   
 <a name="Introduction"></a>
 # Introduction
