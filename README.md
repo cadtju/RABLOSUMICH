@@ -51,7 +51,7 @@ Michigan Department of Transportation and the Center for Advancing Transportatio
 # Research Background
 
 <a name="Bicyclist-Typology"></a>
-### Bicyclist-Typology
+### Bicyclist Typology
 
 <a name="ABC-Bicyclists-(Skill-level)"></a>
 ##### ABC Bicyclists (Skill level)
