@@ -21,12 +21,12 @@
     - [Variables That Influence the Choice to Bicycle](#variables-that-influence-the-choice-to-bicycle)
     - [Models to Estimate Bicyclist Perception of the Quality of Service of a Facility](#models-to-estimate-bicyclist-perception-of-the-quality-of-service-of-a-facility)
 - [Methodology](#methodology)
-        - [Typology - Cycle Atlanta LTS](#typology---cycle-atlanta-lts)
-        - [Bicycle network](#bicycle-network)
-        - [LTS Quality of Service Measure](#lts-quality-of-service-measure)
-        - [Traffic Stress Criteria for Links](#traffic-stress-criteria-for-links)
-        - [Signalized Intersections](#signalized-intersections)
-        - [Criteria for Unsignalized Intersections](#criteria-for-unsignalized-intersections)
+    - [Typology - Cycle Atlanta LTS](#typology---cycle-atlanta-lts)
+    - [Bicycle network](#bicycle-network)
+    - [LTS Quality of Service Measure](#lts-quality-of-service-measure)
+    - [Traffic Stress Criteria for Links](#traffic-stress-criteria-for-links)
+    - [Signalized Intersections](#signalized-intersections)
+    - [Criteria for Unsignalized Intersections](#criteria-for-unsignalized-intersections)
 - [Case Study](#case-study)
     - [Data](#data)
     - [Model](#model)
@@ -184,6 +184,7 @@ Join and relate --> Geocoding --> Buffer and Intersect --> SQL Query and Symbolo
 ![Image10](https://github.com/cadtju/RABLOSUMICH/blob/master/10.png)
 
 - The next image compares the bikeshed with and without this criteria applied. The dark grey facilities are those that were included in Figure 12-14, but which were excluded in Figure 14 due to the presence of unsignalized intersections which exceeded LTS 1 and LTS 2 criteria.
+
 ![Image11](https://github.com/cadtju/RABLOSUMICH/blob/master/11.png)
 
 <a name="Conclusion"></a>
