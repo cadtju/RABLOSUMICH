@@ -150,6 +150,16 @@ Intersection design is a very important component of perceived level of traffic 
 <a name="Criteria-for-Unsignalized-Intersections"></a>
 ##### Criteria for Unsignalized Intersections
 
+##### Data Summary
+- Protected Bicycle facility
+- Side path
+- Shard-use path
+- Street width
+- Traffic volume
+- Functional class
+- Speed limit
+
+
 <a name="Case-Study"></a>
 # Case Study
 This study focused on the Atlanta BeltLine Eastside trail in Atlanta, Georgia. A six-mile buffer around the Atlanta BeltLine Eastside Trail was designated as the study area. 
