@@ -106,7 +106,8 @@ The study also showed that sociodemographic characteristics, particularly age, g
 
 <a name="Models-to-Estimate-Bicyclist-Perception-of-the-Quality-of-Service-of-a-Facility"></a>
 ### Models to Estimate Bicyclist Perception of the Quality of Service of a Facility
-See Excel Matrix
+
+![Image12](https://github.com/cadtju/RABLOSUMICH/blob/master/12.PNG)
 
 <a name="Methodology"></a>
 # Methodology
