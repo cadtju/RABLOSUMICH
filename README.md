@@ -128,6 +128,7 @@ The LTS quality of service measure outlined below builds upon the MTI LTS. Roadw
 Within the LTS quality of service measure, a person who identifies as LTS 3 will find LTS 3, LTS 2, and LTS 1 facilities comfortable, a person who identifies as LTS 2 will find LTS 2 and LTS 1 facilities comfortable and so on.
 The criteria matrices follow the rule that the aspect of a link or intersection with the highest LTS determines the LTS of that segment or intersection.
 
+![Image13](https://github.com/cadtju/RABLOSUMICH/blob/master/13.png)
 
 <a name="Traffic-Stress-Criteria-for-Links"></a>
 ##### Traffic Stress Criteria for Links
