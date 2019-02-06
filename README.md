@@ -100,7 +100,7 @@ The study also showed that sociodemographic characteristics, particularly age, g
 <a name="Models-to-Estimate-Bicyclist-Perception-of-the-Quality-of-Service-of-a-Facility"></a>
 ### Models to Estimate Bicyclist Perception of the Quality of Service of a Facility
 
-![Image12](https://github.com/cadtju/RABLOSUMICH/blob/master/12.PNG)
+![Image12](https://github.com/cadtju/RABLOSUMICH/blob/master/image/12.PNG)
 
 <a name="Methodology"></a>
 # Methodology
@@ -111,16 +111,16 @@ By outlining the criteria to classify roadways and separated bicycle facilities 
 ##### Typology - Cycle Atlanta LTS
 The Cycle Atlanta LTS typology is used in this research as the basis for the LTS roadway and bikeway criteria which are discussed in more detail later. By associating a specific typology with LTS levels for roadway and bikeway criteria it will be possible for future research to validate the criteria based on revealed and stated preference. Misra is currently conducting research to compare the LTS classification of routes that people chose to bicycle and the Cycle Atlanta LTS typology that they identify as. This research can help refine the LTS criteria for classifying roadways and bikeways.
 
-![Image1](https://github.com/cadtju/RABLOSUMICH/blob/master/1.png)
+![Image1](https://github.com/cadtju/RABLOSUMICH/blob/master/image/1.png)
 
 <a name="Bicycle-network"></a>
 ##### Bicycle network
 In the context of this research, the bicycle network includes any facility that a bicycle is allowed to travel on from streets to shared use paths or greenways.
 
-![Image2](https://github.com/cadtju/RABLOSUMICH/blob/master/2.png)
-![Image3](https://github.com/cadtju/RABLOSUMICH/blob/master/3.png)
-![Image4](https://github.com/cadtju/RABLOSUMICH/blob/master/4.png)
-![Image5](https://github.com/cadtju/RABLOSUMICH/blob/master/5.png)
+![Image2](https://github.com/cadtju/RABLOSUMICH/blob/master/image/2.png)
+![Image3](https://github.com/cadtju/RABLOSUMICH/blob/master/image/3.png)
+![Image4](https://github.com/cadtju/RABLOSUMICH/blob/master/image/4.png)
+![Image5](https://github.com/cadtju/RABLOSUMICH/blob/master/image/5.png)
 
 <a name="LTS-Quality-of-Service-Measure"></a>
 ##### LTS Quality of Service Measure
@@ -128,7 +128,7 @@ The LTS quality of service measure outlined below builds upon the MTI LTS. Roadw
 Within the LTS quality of service measure, a person who identifies as LTS 3 will find LTS 3, LTS 2, and LTS 1 facilities comfortable, a person who identifies as LTS 2 will find LTS 2 and LTS 1 facilities comfortable and so on.
 The criteria matrices follow the rule that the aspect of a link or intersection with the highest LTS determines the LTS of that segment or intersection.
 
-![Image13](https://github.com/cadtju/RABLOSUMICH/blob/master/13.png)
+![Image13](https://github.com/cadtju/RABLOSUMICH/blob/master/image/13.png)
 
 <a name="Traffic-Stress-Criteria-for-Links"></a>
 ##### Traffic Stress Criteria for Links
@@ -166,7 +166,7 @@ This study focused on the Atlanta BeltLine Eastside trail in Atlanta, Georgia. A
 
 <a name="Data"></a>
 ### Data
-![Image6](https://github.com/cadtju/RABLOSUMICH/blob/master/6.png)
+![Image6](https://github.com/cadtju/RABLOSUMICH/blob/master/image/6.png)
 
 The RC_ROUTES_ARC attribute information had to be transferred to NAVTEQ Streets 2014 through a manual process due to the lack of common field. They further manually geocoded: the location of on street parking on roadways with conventional bicycle lanes and buffered bicycle lanes; intersections with right turn only motor vehicle lanes that connect to links with conventional bicycle lanes, buffered bicycle lanes, or protected cycle tracks, the location of bike boxes. The process was extremely time consuming.
 
@@ -179,18 +179,18 @@ Join and relate --> Geocoding --> Buffer and Intersect --> SQL Query and Symbolo
 
 - Criteria for left-turning bicyclist at signalized intersections and criteria for bicycle through movement at unsignalized intersections are excluded from this map. The map has a limited number of roadways and bikeways coded blue or LTS 1, however, a large portion of the map has green or LTS 2 roadways and bikeways.
 
-![Image7](https://github.com/cadtju/RABLOSUMICH/blob/master/7.png)
-![Image8](https://github.com/cadtju/RABLOSUMICH/blob/master/8.png)
+![Image7](https://github.com/cadtju/RABLOSUMICH/blob/master/image/7.png)
+![Image8](https://github.com/cadtju/RABLOSUMICH/blob/master/image/8.png)
 
 - While a majority of the roadways and bikeways in the study area are classified as LTS 1 and LTS 2, these facilities appear to not be well connected. Connectivity analysis was not conducted in this thesis. Instead an analysis of the bikeshed of the Atlanta BeltLine Eastside Trail for LTS 1 and LTS 2 facilities was completed. A bikeshed is the distance that a bicyclist can travel from a given point outward, in this case the Atlanta BeltLine Eastside Trail.
-![Image9](https://github.com/cadtju/RABLOSUMICH/blob/master/9.png)
+![Image9](https://github.com/cadtju/RABLOSUMICH/blob/master/image/9.png)
 
 - They study then look into the connectivity between the bikesheds and different Neighborhood Planning Units (NPUs). The majority of NPU E, M, and W are not reached by the Eastside Trail LTS 1 and LTS 2 bikeshed. NPU E and M are likely to see mode share increase due to the concentration of students if low stress infrastructure is installed. 
-![Image10](https://github.com/cadtju/RABLOSUMICH/blob/master/10.png)
+![Image10](https://github.com/cadtju/RABLOSUMICH/blob/master/image/10.png)
 
 - The next image compares the bikeshed with and without this criteria applied. The dark grey facilities are those that were included in Figure 12-14, but which were excluded in Figure 14 due to the presence of unsignalized intersections which exceeded LTS 1 and LTS 2 criteria.
 
-![Image11](https://github.com/cadtju/RABLOSUMICH/blob/master/11.png)
+![Image11](https://github.com/cadtju/RABLOSUMICH/blob/master/image/11.png)
 
 <a name="Conclusion"></a>
 # Conclusion
